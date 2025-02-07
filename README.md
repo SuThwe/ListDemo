@@ -5,7 +5,7 @@
 <body>
 <h1>ListDemo - Android App</h1>
 <p>A simple and clean Android application demonstrating the implementation of a <b>RecyclerView</b> to display a list of data. 
-This project is designed to showcase proficiency in <b>Kotlin</b>, <b>MVVM architecture</b>, and related Android technologies for interview purposes.</p>
+This project is designed to showcase proficiency in <b>Kotlin</b>, <b>MVVM architecture</b>, and related Android technologies for <b>interview purposes</b>.</p>
 
 <h2>Features</h2>
 <ul>
